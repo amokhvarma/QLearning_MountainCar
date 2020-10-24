@@ -16,7 +16,6 @@ To install all the required libraries run :
 
 ### Introduction
 QLearning is an iterative method for ***MDP solving*** . Q Learning is a method for [model free control](http://web.stanford.edu/class/cs234/CS234Win2019/slides/lecture4_postclass.pdf). It is an [off policy](https://towardsdatascience.com/on-policy-v-s-off-policy-learning-75089916bc2f) method. I have used the OpenAI gym environment for the algorithm.
-ps://alex.smola.org/papers/2004/SmoSch04.pdf
 
 ### Implementation details
 The self implementation has been done using numpy and openAI. **OpenAI** is a library used for testing and creating reinforcement learning algorithms. This code has been derived from the video lectures by [sentdex](https://www.youtube.com/watch?v=yMk_XtIEzH8&list=PLQVvvaa0QuDezJFIOU5wDdfy4e9vdnx-7).
