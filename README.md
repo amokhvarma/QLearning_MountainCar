@@ -24,8 +24,11 @@ The hyperparameters involved here are :-
 ```
 alpha = 0.1  // Learning rate
 ```
-Another possibility of change is using the exploration value decay
-```epsilon, epsilon_decay_value = 0.1 , 0.0005``
+Another possibility of change is using the exploration value decay :- <br>
+
+```
+epsilon, epsilon_decay_value = 0.1 , 0.0005
+```
 
 ### Usage
 To run the code , use
